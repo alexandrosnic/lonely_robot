@@ -5,9 +5,8 @@
 Lonely Robot is a minimalist homage to Chrome's offline dinosaur game.
 
 The name comes from the original "Lonely T-Rex" concept: a single character running through an empty world while offline.
-Here, the dinosaur is replaced with a minimal robot, but the same lonely, monochrome, side-scrolling spirit remains.
 
-## Obstacles
+Here, the dinosaur is replaced with a minimal robot, but the same lonely, monochrome, side-scrolling spirit remains.
 
 Each obstacle represents a common robotics software or systems problem in a simple pixel-art form:
 
@@ -20,3 +19,6 @@ Each obstacle represents a common robotics software or systems problem in a simp
 ## File
 
 - `lonely_robot.html`: Single-file animation scene with a running robot and software-themed obstacles.
+
+This project/repo was created to originally be included in my own portfolio: 
+https://alexandrosnic.github.io/
